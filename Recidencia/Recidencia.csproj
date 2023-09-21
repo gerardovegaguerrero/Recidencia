@@ -52,10 +52,91 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form91L4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form91L4.Designer.cs">
+      <DependentUpon>Form91L4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form91L5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form91L5.Designer.cs">
+      <DependentUpon>Form91L5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form91L6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form91L6.Designer.cs">
+      <DependentUpon>Form91L6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLCLB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLCLB.Designer.cs">
+      <DependentUpon>FormLCLB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLCLC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLCLC.Designer.cs">
+      <DependentUpon>FormLCLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLCLD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLCLD.Designer.cs">
+      <DependentUpon>FormLCLD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLCLI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLCLI.Designer.cs">
+      <DependentUpon>FormLCLI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_InformacionProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_InformacionProfesor.Designer.cs">
+      <DependentUpon>Form_InformacionProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_LCLA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_LCLA.Designer.cs">
+      <DependentUpon>Form_LCLA.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form91L4.resx">
+      <DependentUpon>Form91L4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form91L5.resx">
+      <DependentUpon>Form91L5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form91L6.resx">
+      <DependentUpon>Form91L6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLCLB.resx">
+      <DependentUpon>FormLCLB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLCLC.resx">
+      <DependentUpon>FormLCLC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLCLD.resx">
+      <DependentUpon>FormLCLD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLCLI.resx">
+      <DependentUpon>FormLCLI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_InformacionProfesor.resx">
+      <DependentUpon>Form_InformacionProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_LCLA.resx">
+      <DependentUpon>Form_LCLA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
